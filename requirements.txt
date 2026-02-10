@@ -4,4 +4,4 @@ matplotlib
 mplfinance
 pandas
 numpy
-Talib-binary
+TA-Lib
