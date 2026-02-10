@@ -1,0 +1,7 @@
+python-telegram-bot
+requests
+matplotlib
+mplfinance
+pandas
+numpy
+Talib-binary
