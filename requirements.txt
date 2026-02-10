@@ -4,4 +4,4 @@ matplotlib
 mplfinance
 pandas
 numpy
-TA-Lib
+pandas_ta
