@@ -11,7 +11,7 @@ import io
 import mplfinance as mpf
 import pandas as pd
 from datetime import datetime
-import talib
+import pandas_ta as talib
 import numpy as np
 import matplotlib.pyplot as plt
 plt.rcParams['font.family'] = ['Arial Unicode MS']
